@@ -10754,11 +10754,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sam\\Desktop\\YouStore\\Logic_IntegrationTest\\Logic_IntegrationTest.csproj",
+      "projectUniqueName": "C:\\Users\\Sam\\Documents\\GitHub\\YouStore2019\\YouStore\\Logic_IntegrationTest\\Logic_IntegrationTest.csproj",
       "projectName": "Logic_IntegrationTest",
-      "projectPath": "C:\\Users\\Sam\\Desktop\\YouStore\\Logic_IntegrationTest\\Logic_IntegrationTest.csproj",
+      "projectPath": "C:\\Users\\Sam\\Documents\\GitHub\\YouStore2019\\YouStore\\Logic_IntegrationTest\\Logic_IntegrationTest.csproj",
       "packagesPath": "C:\\Users\\Sam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sam\\Desktop\\YouStore\\Logic_IntegrationTest\\obj\\",
+      "outputPath": "C:\\Users\\Sam\\Documents\\GitHub\\YouStore2019\\YouStore\\Logic_IntegrationTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -10777,8 +10777,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Sam\\Desktop\\YouStore\\Logic\\Logic.csproj": {
-              "projectPath": "C:\\Users\\Sam\\Desktop\\YouStore\\Logic\\Logic.csproj"
+            "C:\\Users\\Sam\\Documents\\GitHub\\YouStore2019\\YouStore\\Logic\\Logic.csproj": {
+              "projectPath": "C:\\Users\\Sam\\Documents\\GitHub\\YouStore2019\\YouStore\\Logic\\Logic.csproj"
             }
           }
         }

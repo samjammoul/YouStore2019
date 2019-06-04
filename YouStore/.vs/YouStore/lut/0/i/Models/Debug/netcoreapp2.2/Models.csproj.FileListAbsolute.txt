@@ -1,0 +1,8 @@
+C:\Users\Sam\Documents\GitHub\YouStore2019\YouStore\.vs\YouStore\lut\0\b\Models\Debug\netcoreapp2.2\Models.deps.json
+C:\Users\Sam\Documents\GitHub\YouStore2019\YouStore\.vs\YouStore\lut\0\b\Models\Debug\netcoreapp2.2\Models.dll
+C:\Users\Sam\Documents\GitHub\YouStore2019\YouStore\.vs\YouStore\lut\0\i\Models\Debug\netcoreapp2.2\Models.csprojAssemblyReference.cache
+C:\Users\Sam\Documents\GitHub\YouStore2019\YouStore\.vs\YouStore\lut\0\i\Models\Debug\netcoreapp2.2\Models.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\GitHub\YouStore2019\YouStore\.vs\YouStore\lut\0\i\Models\Debug\netcoreapp2.2\Models.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\GitHub\YouStore2019\YouStore\.vs\YouStore\lut\0\i\Models\Debug\netcoreapp2.2\Models.AssemblyInfo.cs
+C:\Users\Sam\Documents\GitHub\YouStore2019\YouStore\.vs\YouStore\lut\0\i\Models\Debug\netcoreapp2.2\Models.csproj.CopyComplete
+C:\Users\Sam\Documents\GitHub\YouStore2019\YouStore\.vs\YouStore\lut\0\i\Models\Debug\netcoreapp2.2\Models.dll

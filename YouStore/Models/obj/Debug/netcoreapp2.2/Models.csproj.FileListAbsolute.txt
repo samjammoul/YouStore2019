@@ -15,3 +15,12 @@ C:\Users\Sam\Desktop\YouStore\Models\obj\Debug\netcoreapp2.2\Models.AssemblyInfo
 C:\Users\Sam\Desktop\YouStore\Models\obj\Debug\netcoreapp2.2\Models.dll
 C:\Users\Sam\Desktop\YouStore\Models\obj\Debug\netcoreapp2.2\Models.pdb
 C:\Users\Sam\Desktop\YouStore\Models\obj\Debug\netcoreapp2.2\Models.csprojAssemblyReference.cache
+C:\Users\Sam\Documents\GitHub\YouStore2019\YouStore\Models\bin\Debug\netcoreapp2.2\Models.deps.json
+C:\Users\Sam\Documents\GitHub\YouStore2019\YouStore\Models\bin\Debug\netcoreapp2.2\Models.dll
+C:\Users\Sam\Documents\GitHub\YouStore2019\YouStore\Models\bin\Debug\netcoreapp2.2\Models.pdb
+C:\Users\Sam\Documents\GitHub\YouStore2019\YouStore\Models\obj\Debug\netcoreapp2.2\Models.csprojAssemblyReference.cache
+C:\Users\Sam\Documents\GitHub\YouStore2019\YouStore\Models\obj\Debug\netcoreapp2.2\Models.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\GitHub\YouStore2019\YouStore\Models\obj\Debug\netcoreapp2.2\Models.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\GitHub\YouStore2019\YouStore\Models\obj\Debug\netcoreapp2.2\Models.AssemblyInfo.cs
+C:\Users\Sam\Documents\GitHub\YouStore2019\YouStore\Models\obj\Debug\netcoreapp2.2\Models.dll
+C:\Users\Sam\Documents\GitHub\YouStore2019\YouStore\Models\obj\Debug\netcoreapp2.2\Models.pdb

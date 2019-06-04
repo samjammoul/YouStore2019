@@ -1,0 +1,3 @@
+C:\Users\Sam\Documents\GitHub\YouStore2019\YouStore\.vs\YouStore\lut\0\i\Data\Debug\netcoreapp2.2\Data.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\GitHub\YouStore2019\YouStore\.vs\YouStore\lut\0\i\Data\Debug\netcoreapp2.2\Data.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\GitHub\YouStore2019\YouStore\.vs\YouStore\lut\0\i\Data\Debug\netcoreapp2.2\Data.AssemblyInfo.cs

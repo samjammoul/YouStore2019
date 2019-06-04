@@ -12994,11 +12994,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sam\\Desktop\\YouStore\\YouStore\\YouStore.csproj",
+      "projectUniqueName": "C:\\Users\\Sam\\Documents\\GitHub\\YouStore2019\\YouStore\\YouStore\\YouStore.csproj",
       "projectName": "YouStore",
-      "projectPath": "C:\\Users\\Sam\\Desktop\\YouStore\\YouStore\\YouStore.csproj",
+      "projectPath": "C:\\Users\\Sam\\Documents\\GitHub\\YouStore2019\\YouStore\\YouStore\\YouStore.csproj",
       "packagesPath": "C:\\Users\\Sam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sam\\Desktop\\YouStore\\YouStore\\obj\\",
+      "outputPath": "C:\\Users\\Sam\\Documents\\GitHub\\YouStore2019\\YouStore\\YouStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13017,11 +13017,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Sam\\Desktop\\YouStore\\Logic\\Logic.csproj": {
-              "projectPath": "C:\\Users\\Sam\\Desktop\\YouStore\\Logic\\Logic.csproj"
+            "C:\\Users\\Sam\\Documents\\GitHub\\YouStore2019\\YouStore\\Logic\\Logic.csproj": {
+              "projectPath": "C:\\Users\\Sam\\Documents\\GitHub\\YouStore2019\\YouStore\\Logic\\Logic.csproj"
             },
-            "C:\\Users\\Sam\\Desktop\\YouStore\\Models\\Models.csproj": {
-              "projectPath": "C:\\Users\\Sam\\Desktop\\YouStore\\Models\\Models.csproj"
+            "C:\\Users\\Sam\\Documents\\GitHub\\YouStore2019\\YouStore\\Models\\Models.csproj": {
+              "projectPath": "C:\\Users\\Sam\\Documents\\GitHub\\YouStore2019\\YouStore\\Models\\Models.csproj"
             }
           }
         }

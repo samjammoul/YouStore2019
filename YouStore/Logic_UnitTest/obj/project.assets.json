@@ -6734,11 +6734,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sam\\Desktop\\YouStore\\Logic_UnitTest\\Logic_UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\Sam\\Documents\\GitHub\\YouStore2019\\YouStore\\Logic_UnitTest\\Logic_UnitTest.csproj",
       "projectName": "Logic_UnitTest",
-      "projectPath": "C:\\Users\\Sam\\Desktop\\YouStore\\Logic_UnitTest\\Logic_UnitTest.csproj",
+      "projectPath": "C:\\Users\\Sam\\Documents\\GitHub\\YouStore2019\\YouStore\\Logic_UnitTest\\Logic_UnitTest.csproj",
       "packagesPath": "C:\\Users\\Sam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sam\\Desktop\\YouStore\\Logic_UnitTest\\obj\\",
+      "outputPath": "C:\\Users\\Sam\\Documents\\GitHub\\YouStore2019\\YouStore\\Logic_UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6757,14 +6757,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Sam\\Desktop\\YouStore\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\Sam\\Desktop\\YouStore\\Data\\Data.csproj"
+            "C:\\Users\\Sam\\Documents\\GitHub\\YouStore2019\\YouStore\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\Sam\\Documents\\GitHub\\YouStore2019\\YouStore\\Data\\Data.csproj"
             },
-            "C:\\Users\\Sam\\Desktop\\YouStore\\Logic\\Logic.csproj": {
-              "projectPath": "C:\\Users\\Sam\\Desktop\\YouStore\\Logic\\Logic.csproj"
+            "C:\\Users\\Sam\\Documents\\GitHub\\YouStore2019\\YouStore\\Logic\\Logic.csproj": {
+              "projectPath": "C:\\Users\\Sam\\Documents\\GitHub\\YouStore2019\\YouStore\\Logic\\Logic.csproj"
             },
-            "C:\\Users\\Sam\\Desktop\\YouStore\\MemoryContext\\MemoryContext.csproj": {
-              "projectPath": "C:\\Users\\Sam\\Desktop\\YouStore\\MemoryContext\\MemoryContext.csproj"
+            "C:\\Users\\Sam\\Documents\\GitHub\\YouStore2019\\YouStore\\MemoryContext\\MemoryContext.csproj": {
+              "projectPath": "C:\\Users\\Sam\\Documents\\GitHub\\YouStore2019\\YouStore\\MemoryContext\\MemoryContext.csproj"
             }
           }
         }

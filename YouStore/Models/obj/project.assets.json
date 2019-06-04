@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sam\\Desktop\\YouStore\\Models\\Models.csproj",
+      "projectUniqueName": "C:\\Users\\Sam\\Documents\\GitHub\\YouStore2019\\YouStore\\Models\\Models.csproj",
       "projectName": "Models",
-      "projectPath": "C:\\Users\\Sam\\Desktop\\YouStore\\Models\\Models.csproj",
+      "projectPath": "C:\\Users\\Sam\\Documents\\GitHub\\YouStore2019\\YouStore\\Models\\Models.csproj",
       "packagesPath": "C:\\Users\\Sam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sam\\Desktop\\YouStore\\Models\\obj\\",
+      "outputPath": "C:\\Users\\Sam\\Documents\\GitHub\\YouStore2019\\YouStore\\Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

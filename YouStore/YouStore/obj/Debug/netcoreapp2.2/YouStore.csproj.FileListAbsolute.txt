@@ -106,3 +106,11 @@ C:\Users\Sam\Desktop\YouStore\YouStore\obj\Debug\netcoreapp2.2\Razor\Views\Youtu
 C:\Users\Sam\Desktop\YouStore\YouStore\obj\Debug\netcoreapp2.2\Razor\Views\Youtuber\ShowYoutuberProducts.g.cshtml.cs
 C:\Users\Sam\Desktop\YouStore\YouStore\obj\Debug\netcoreapp2.2\Razor\Views\Client\OrdersList.g.cshtml.cs
 C:\Users\Sam\Desktop\YouStore\YouStore\obj\Debug\netcoreapp2.2\Razor\Views\Admin\ShowOdersCount.g.cshtml.cs
+C:\Users\Sam\Documents\GitHub\YouStore2019\YouStore\YouStore\obj\Debug\netcoreapp2.2\YouStore.csprojAssemblyReference.cache
+C:\Users\Sam\Documents\GitHub\YouStore2019\YouStore\YouStore\obj\Debug\netcoreapp2.2\YouStore.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\GitHub\YouStore2019\YouStore\YouStore\obj\Debug\netcoreapp2.2\YouStore.RazorAssemblyInfo.cache
+C:\Users\Sam\Documents\GitHub\YouStore2019\YouStore\YouStore\obj\Debug\netcoreapp2.2\YouStore.RazorAssemblyInfo.cs
+C:\Users\Sam\Documents\GitHub\YouStore2019\YouStore\YouStore\obj\Debug\netcoreapp2.2\YouStore.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\GitHub\YouStore2019\YouStore\YouStore\obj\Debug\netcoreapp2.2\YouStore.AssemblyInfo.cs
+C:\Users\Sam\Documents\GitHub\YouStore2019\YouStore\YouStore\obj\Debug\netcoreapp2.2\YouStore.dll
+C:\Users\Sam\Documents\GitHub\YouStore2019\YouStore\YouStore\obj\Debug\netcoreapp2.2\YouStore.pdb
