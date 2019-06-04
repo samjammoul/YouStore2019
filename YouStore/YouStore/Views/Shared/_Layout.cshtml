@@ -1,0 +1,245 @@
+﻿@using Microsoft.AspNetCore.Http;
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]|YouStore</title>
+
+    @*<environment include="Development">
+            <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+            <link rel="stylesheet" href="~/css/site.css" />
+
+        </environment>
+        <environment exclude="Development">
+            <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/css/bootstrap.min.css"
+                  asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
+                  asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+            <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
+            <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+
+
+        </environment>*@
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+
+    <link href="C:\Users\Sam\source\repos\YouStore\YouStore\wwwroot\css\site.css" rel="stylesheet" />
+
+</head>
+
+<body>
+    <header>
+        <div class="jumbotron">
+            <h1 class="display-4">Choose now your favorite YouTuber!</h1>
+
+
+            <a class="btn btn-primary btn-lg" href="#" role="button">Check it now !</a>
+
+        </div>
+        @*<img src="~/images/YouTubeSpaceMumbai-e1449154259324.png" class="backpic" />*@
+
+        <nav class="navbar navbar-inverse navbar-fixed-top" style="position: absolute!important;">
+
+            <div class="container">
+
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <img src="~/images/logol.png" class="logo" />
+                    @*<a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand">YouStore</a>*@
+
+                </div>
+
+                <div class="navbar-collapse collapse">
+
+                    <ul class="nav navbar-nav">
+
+                        <li><a asp-area="" asp-controller="Home" asp-action="Home">Home</a></li>
+                        @*<li><a asp-area="" asp-controller="Home" asp-action="YoutuberList">YouTubers</a></li>*@
+                        <li><a asp-area="" asp-controller="Home" asp-action="Home">Producten</a></li>
+                        <li><a asp-area="" asp-controller="Home" asp-action="About">About us</a></li>
+                        @*<li><a asp-area="" asp-controller="Client" asp-action="Login">Login</a></li>*@
+                        @*<li><a asp-area="" asp-controller="Admin" asp-action="AdminHome">Admin</a></li>
+                        <li><a asp-area="" asp-controller="Admin" asp-action="AddProduct">AddProduct</a></li>*@
+                    </ul>
+
+
+                </div>
+
+                @*<div class="navbar-collapse collapse">*@
+                @*<ul class="nav navbar-nav">
+                        @{string name = Context.Session.GetString("name");
+                            int? role = Context.Session.GetInt32("role");}
+                        @if (name != null)
+                        {
+                            if (role == 1) //als admin
+                            {
+                                <li><a asp-area="" asp-controller="User" asp-action="CreateUser">AddUser</a></li>
+                                <li><a asp-area="" asp-controller="User" asp-action="UserList">Alle Gebruikers</a></li>
+                                <li><a asp-area="" asp-controller="Group" asp-action="MyGroups">Mijn Groepen</a></li>
+                                <li><a asp-area="" asp-controller="Group" asp-action="Index">Alle groepen</a></li>
+                                <li><a asp-area="" asp-controller="User" asp-action="Profile">Profiel</a></li>
+                                <li><a asp-area="" asp-controller="User" asp-action="Logout">Uitloggen</a></li>
+                            }
+                            else //als ingelogd normale gebruiker
+                            {
+                                <li><a asp-area="" asp-controller="Group" asp-action="MyGroups">Groepen</a></li>
+                                <li><a asp-area="" asp-controller="User" asp-action="Profile">Profiel</a></li>
+                                <li><a asp-area="" asp-controller="User" asp-action="Logout">Uitloggen</a></li>
+                            }
+                        }
+                    </ul>
+                </div>*@
+            </div>
+            <div class="loginbtn">
+                <ul>
+                    <li><a class="btn btn-default btn-sm" asp-area="" asp-controller="Client" asp-action="Login"><span class="glyphicon glyphicon-user"></span>Login</a></li>
+                    
+
+                </ul>
+
+            </div>
+        </nav>
+       
+
+        </header>
+
+    @*<div class="info">
+            <div class="container">
+                <h1 class="display-4">Why Us ?</h1>
+                <div class="infofast">
+                    <h1 class="infotextfast">Fast</h1>
+                    <img class="fastpic" src="~/images/1600.png">
+
+                </div>
+                <div class="infoEasy">
+                </div>
+            </div>
+        </div>*@
+    <!--
+
+
+
+
+
+    <partial name="_CookieConsentPartial" />
+
+    <div class="container body-content">
+        -->
+    <div class="po" style="margin-left: 10px;">
+
+        @RenderBody()
+
+    </div>
+    <style>
+
+                .navbar {
+                    background-color: none;
+                }
+
+                .backpic {
+                    /* The image used */
+                    min-height: 380px;
+                    /* Center and scale the image nicely */
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    /* Needed to position the navbar */
+                    position: relative;
+                    width: 100%;
+                    top: -51px;
+                }
+
+                a {
+                    color: white;
+                    text-decoration: none;
+                    font-size: x-large;
+                }
+
+                .container > .navbar-header, .container-fluid > .navbar-header, .container > .navbar-collapse, .container-fluid > .navbar-collapse {
+                    margin-right: 193px;
+                    margin-left: 0;
+                    margin-top: 0;
+                }
+
+                .navbar-nav > li > a {
+                    padding-top: 30%;
+                    padding-bottom: 15px;
+                }
+
+                .backpic {
+                    margin-left: 0px;
+                    margin-top: 0px;
+                }
+
+                .logo {
+                    padding-left: 92px;
+                    padding-top: -14%;
+                }
+
+                .navbar-nav > li > a {
+                    padding-top: 123px;
+                    padding-bottom: 30px;
+                    margin-right: 36px;
+                }
+
+                .jumbotron {
+                    background-image: url("../images/YouTubeSpaceMumbai-e1449154259324.png");
+                    background-repeat: no-repeat;
+                    background-size: 100%;
+                    margin-top: -3%;
+                    padding-bottom: 20%;
+                }
+                    /*h1, .h1, h2, .h2, h3, .h3 {
+            margin-top: 62px;
+            margin-bottom: 152px;
+        }*/
+                    .jumbotron h1, .jumbotron .h1 {
+                        color: white;
+                        margin-left: 22%;
+                        margin-top: 11%;
+                    }
+
+                .btn-primary {
+                    margin-left: 44%;
+                    margin-top: 2%;
+                }
+
+                .po {
+                    margin-left: 20px;
+                }
+
+                .login {
+                    float: right;
+                }
+
+                /*.nav navbar-nav {
+                    margin: 0 0;
+                }*/
+                .container > .navbar-header, .container-fluid > .navbar-header, .container > .navbar-collapse, .container-fluid > .navbar-collapse {
+                    margin-right: 154px;
+                    margin-left: -569px;
+                    margin-top: 0;
+                }
+
+                .navbar-nav {
+                    margin-left: -115px;
+                    margin-top: -48px;
+                }
+
+                .loginbtn {
+                    float: right;
+                    margin-right: 243px;
+                    margin-top: -103px;
+                }
+    </style>
+
+
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

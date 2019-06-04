@@ -1,0 +1,7 @@
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\b\Models\Debug\netcoreapp2.2\Models.deps.json
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\b\Models\Debug\netcoreapp2.2\Models.dll
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\Models\Debug\netcoreapp2.2\Models.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\Models\Debug\netcoreapp2.2\Models.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\Models\Debug\netcoreapp2.2\Models.AssemblyInfo.cs
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\Models\Debug\netcoreapp2.2\Models.csproj.CopyComplete
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\Models\Debug\netcoreapp2.2\Models.dll

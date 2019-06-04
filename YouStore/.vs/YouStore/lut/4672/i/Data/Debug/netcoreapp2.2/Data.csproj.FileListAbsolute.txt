@@ -1,0 +1,7 @@
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\b\Data\Debug\netcoreapp2.2\Data.deps.json
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\b\Data\Debug\netcoreapp2.2\Data.dll
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\Data\Debug\netcoreapp2.2\Data.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\Data\Debug\netcoreapp2.2\Data.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\Data\Debug\netcoreapp2.2\Data.AssemblyInfo.cs
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\Data\Debug\netcoreapp2.2\Data.csproj.CopyComplete
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\Data\Debug\netcoreapp2.2\Data.dll

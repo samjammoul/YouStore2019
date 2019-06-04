@@ -1,0 +1,13 @@
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\b\Logic_UnitTest\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\b\Logic_UnitTest\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\b\Logic_UnitTest\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\b\Logic_UnitTest\Debug\netcoreapp2.2\Logic_UnitTest.deps.json
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\b\Logic_UnitTest\Debug\netcoreapp2.2\Logic_UnitTest.runtimeconfig.json
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\b\Logic_UnitTest\Debug\netcoreapp2.2\Logic_UnitTest.runtimeconfig.dev.json
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\b\Logic_UnitTest\Debug\netcoreapp2.2\Logic_UnitTest.dll
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\Logic_UnitTest\Debug\netcoreapp2.2\Logic_UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\Logic_UnitTest\Debug\netcoreapp2.2\Logic_UnitTest.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\Logic_UnitTest\Debug\netcoreapp2.2\Logic_UnitTest.AssemblyInfo.cs
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\Logic_UnitTest\Debug\netcoreapp2.2\Logic_UnitTest.csproj.CopyComplete
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\Logic_UnitTest\Debug\netcoreapp2.2\Logic_UnitTest.dll
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\Logic_UnitTest\Debug\netcoreapp2.2\Logic_UnitTest.csprojAssemblyReference.cache

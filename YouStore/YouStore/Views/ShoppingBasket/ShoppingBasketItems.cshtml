@@ -1,0 +1,67 @@
+﻿@model IEnumerable<Models.Product>
+
+@{
+    ViewData["Title"] = "ShoppingBasketItems";
+    Layout = "~/Views/Shared/_LayoutClient.cshtml";
+}
+
+<h2>Winkelmandje</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductPrijs)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductDescription)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductPrijs)
+                </td>
+                <td class="Text">
+                    <a href="#" class="btn btn-info btn-lg">
+                        <span class="glyphicon glyphicon-trash"  type="button" title="Delete" value=" " onclick="location.href='/ShoppingBasket/DeleteProduct/@item.ProductId'"></span> 
+                    </a>
+                    @*<input class="glyphicon glyphicon-trash" />*@
+                    @*@Html.ActionLink("", "DeleteProduct", "ShoppingBasket", new { id = item.ProductId }, new { @class = "" })*@
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div style="margin-left: 91%; margin-top: 2%; margin-bottom: 1%;">
+    <input class="btn btn-primary checkout" type="button" title="Delete" value="Check Out" onclick="location.href='/Client/ProductenKopen'" style="border-color:red;" />
+
+</div>
+  
+  
+
+
+<style>
+    .Text {
+        color: red;
+    }
+    
+       
+    
+</style>

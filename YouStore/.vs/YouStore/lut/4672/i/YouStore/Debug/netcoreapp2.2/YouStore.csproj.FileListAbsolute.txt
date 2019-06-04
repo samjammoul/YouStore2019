@@ -1,0 +1,6 @@
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\YouStore\Debug\netcoreapp2.2\YouStore.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\YouStore\Debug\netcoreapp2.2\YouStore.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\YouStore\Debug\netcoreapp2.2\YouStore.RazorAssemblyInfo.cache
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\YouStore\Debug\netcoreapp2.2\YouStore.RazorAssemblyInfo.cs
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\YouStore\Debug\netcoreapp2.2\YouStore.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\YouStore\Debug\netcoreapp2.2\YouStore.AssemblyInfo.cs

@@ -1,0 +1,8 @@
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\b\Logic\Debug\netcoreapp2.2\Logic.deps.json
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\b\Logic\Debug\netcoreapp2.2\Logic.dll
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\Logic\Debug\netcoreapp2.2\Logic.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\Logic\Debug\netcoreapp2.2\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\Logic\Debug\netcoreapp2.2\Logic.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\Logic\Debug\netcoreapp2.2\Logic.AssemblyInfo.cs
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\Logic\Debug\netcoreapp2.2\Logic.csproj.CopyComplete
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\Logic\Debug\netcoreapp2.2\Logic.dll

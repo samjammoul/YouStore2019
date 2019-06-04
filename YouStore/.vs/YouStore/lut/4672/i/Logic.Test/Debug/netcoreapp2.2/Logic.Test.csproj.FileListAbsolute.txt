@@ -1,0 +1,3 @@
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\Logic.Test\Debug\netcoreapp2.2\Logic.Test.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\Logic.Test\Debug\netcoreapp2.2\Logic.Test.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\Logic.Test\Debug\netcoreapp2.2\Logic.Test.AssemblyInfo.cs

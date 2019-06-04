@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Models.Product>
+
+@{
+    ViewData["Title"] = "ShowOdersCount";
+    Layout = "~/Views/Shared/_AdminView.cshtml";
+}
+
+<h2>ShowOdersCount</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderedTimes)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderedTimes)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

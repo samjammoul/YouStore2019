@@ -1,0 +1,8 @@
+C:\Users\Sam\Desktop\YouStore\Logic.Test\bin\Debug\netcoreapp2.2\Logic.Test.deps.json
+C:\Users\Sam\Desktop\YouStore\Logic.Test\bin\Debug\netcoreapp2.2\Logic.Test.dll
+C:\Users\Sam\Desktop\YouStore\Logic.Test\obj\Debug\netcoreapp2.2\Logic.Test.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\YouStore\Logic.Test\obj\Debug\netcoreapp2.2\Logic.Test.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\YouStore\Logic.Test\obj\Debug\netcoreapp2.2\Logic.Test.AssemblyInfo.cs
+C:\Users\Sam\Desktop\YouStore\Logic.Test\bin\Debug\netcoreapp2.2\Logic.Test.runtimeconfig.json
+C:\Users\Sam\Desktop\YouStore\Logic.Test\bin\Debug\netcoreapp2.2\Logic.Test.runtimeconfig.dev.json
+C:\Users\Sam\Desktop\YouStore\Logic.Test\obj\Debug\netcoreapp2.2\Logic.Test.csprojAssemblyReference.cache

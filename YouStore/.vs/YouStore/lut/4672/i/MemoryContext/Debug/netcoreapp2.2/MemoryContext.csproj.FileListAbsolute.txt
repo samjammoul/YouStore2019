@@ -1,0 +1,8 @@
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\b\MemoryContext\Debug\netcoreapp2.2\MemoryContext.deps.json
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\b\MemoryContext\Debug\netcoreapp2.2\MemoryContext.dll
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\MemoryContext\Debug\netcoreapp2.2\MemoryContext.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\MemoryContext\Debug\netcoreapp2.2\MemoryContext.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\MemoryContext\Debug\netcoreapp2.2\MemoryContext.AssemblyInfo.cs
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\MemoryContext\Debug\netcoreapp2.2\MemoryContext.csproj.CopyComplete
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\MemoryContext\Debug\netcoreapp2.2\MemoryContext.dll
+C:\Users\Sam\Desktop\YouStore\.vs\YouStore\lut\0\i\MemoryContext\Debug\netcoreapp2.2\MemoryContext.csprojAssemblyReference.cache

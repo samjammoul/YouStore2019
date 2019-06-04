@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Models.Youtuber>
+
+@{
+    ViewData["Title"] = "YoutuberList";
+    Layout = "~/Views/Shared/_LayoutClient.cshtml";
+}
+
+<h2>YoutuberList</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<style>
+    .card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        max-width: 300px;
+        margin: auto;
+        text-align: center;
+        font-family: arial;
+    }
+
+    .price {
+        color: grey;
+        font-size: 22px;
+    }
+
+    .card button {
+        border: none;
+        outline: 0;
+        padding: 12px;
+        color: white;
+        background-color: #000;
+        text-align: center;
+        cursor: pointer;
+        width: 100%;
+        font-size: 18px;
+    }
+
+        .card button:hover {
+            opacity: 0.7;
+        }
+</style>
+
+@foreach (var item in Model)
+{
+<div class="card" onclick="location.href='/Youtuber/ShowYoutuberProducts/YoutuberId?=@item.YoutuberId'">
+    <img src="~/images/@Html.DisplayFor(modelItem => item.YoutuberImage)" alt="Denim Jeans" style="width:100%" onclick="location.href='/Youtuber/ShowYoutuberProducts/YoutuberId?=@item.YoutuberId'">
+    <h1>@Html.DisplayFor(modelItem => item.YoutuberName)</h1>
+    
+    @*<input type="button" title="Delete" value="D" onclick="location.href='/ShoppingBasket/AddProductsToShoppingBasket/id?=@item.ProductId'" />*@
+</div>
+
+}
+
